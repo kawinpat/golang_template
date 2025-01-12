@@ -2,7 +2,7 @@
 
 This simple project was created by: **Kawinpat Raweepornpisarn**
 
-=============================================================================
+==================================================================
 
 ## Installation & Setup
 
@@ -21,7 +21,7 @@ This simple project was created by: **Kawinpat Raweepornpisarn**
           http://localhost:8080/signin
           http://localhost:8080/auth/signout
 
-=============================================================================
+==================================================================
 
 ## Notes
 

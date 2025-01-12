@@ -2,31 +2,26 @@
 
 This simple project was created by: **Kawinpat Raweepornpisarn**
 
-==================================================================
+=============================================================================
 
 ## Installation & Setup
 
-1. **Install dependencies (Skip if you are already installed)**: go mod tidy
+1. **Install dependencies (Skip if you are already installed)**:
+     go mod tidy
 
 2. **Run the project**:
-
-Using go run: go run ./main.go
-
-Or using air (if you want live reloading): air
+     Using go run: go run ./main.go
+     Or using air (if you want live reloading): air
 
 3. **Test the API**:
+     No Access token required: http://localhost:8080/
+     Access token required (Bearer): http://localhost:8080/auth
 
-No Access token required: http://localhost:8080/
+     Example paths:
+          http://localhost:8080/signin
+          http://localhost:8080/auth/signout
 
-Access token required (Bearer): http://localhost:8080/auth
-
-Example paths:
-
-http://localhost:8080/signin
-
-http://localhost:8080/auth/signout
-
-==================================================================
+=============================================================================
 
 ## Notes
 
